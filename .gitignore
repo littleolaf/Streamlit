@@ -1,4 +1,5 @@
 # 默认忽略的文件
 /shelf/
 /workspace.xml
-/Summary V2.xlsx
+Summary V2.xlsx
+.vscode
